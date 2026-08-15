@@ -1,8 +1,6 @@
 # Hello, I'm Shriyash Ghimire! 👋
 
 
-
-![Shriyashzzz's Streak](https://streak-stats.demolab.com?user=Shriyashzzz&theme=vue-dark)
 ##  About Me
 
 - I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
