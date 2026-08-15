@@ -1,7 +1,35 @@
-## Hi there 👋
+# Hello, I'm Shriyash Ghimire! 👋
+
+
+
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+## 🚀 About Me
+
+- 🔭 I'm currently pursuing my Bachelor's degree in Computer Science
+- 📝 I write in-depth, articles on my website [blog.shriyash.dev](https://blog.shriyash.dev), a
+
+
+## My  Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development through the Odin Project
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Express, a powerful Node.js web framework.
+  - Diving into PostgreSQL for efficient and scalable database management.
+  - Exploring different kind of authentication, JWT, session based cookie, Oauth
+
+## 📬 Get in Touch
+
+- Connect with me on [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/shriyash-ghimire-73b385257/))
+Thanks for stopping by! I'd love to connect with you ;)
+
+
 
 <!--
-**Shriyashzzz/Shriyashzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
