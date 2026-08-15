@@ -2,8 +2,7 @@
 
 
 
-![Shriyashzzz's Stats](https://github-readme-stats-bice-delta-35.vercel.app/api?username=Shriyashzzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
+![Shriyashzzz's Streak](https://streak-stats.demolab.com?user=Shriyashzzz&theme=vue-dark)
 ##  About Me
 
 - I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
