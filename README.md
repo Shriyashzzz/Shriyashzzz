@@ -1,4 +1,4 @@
-# Hello, I'm Shriyash Ghimire! 👋
+<div align = "center"> # Hello, I'm Shriyash Ghimire! 👋</div>
 
 
 - I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
