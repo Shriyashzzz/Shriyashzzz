@@ -2,29 +2,29 @@
 
 
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Shriyashzzz>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-## 🚀 About Me
+##  About Me
 
-- 🔭 I'm currently pursuing my Bachelor's degree in Computer Science
-- 📝 I write in-depth, articles on my website [blog.shriyash.dev](https://blog.shriyash.dev), a
+- I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
+- I write in-depth, thoughtful articles on my website [blog.shriyash.dev](https://blog.shriyash.dev), a
 
 
 ## My  Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+##  What am I doing currently?
 
-- 🚀 Learning Full Stack Web Development through the Odin Project
+  - Learning Full Stack Web Development through the Odin Project
   - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
   - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Building server-side applications with Express, a powerful Node.js web framework.
-  - Diving into PostgreSQL for efficient and scalable database management.
-  - Exploring different kind of authentication, JWT, session based cookie, Oauth
+  - Learning to use docker to so I can run my applications on isolated environment and not have to deal with weird production bugs
+  - Exploring different kind of authentication, JWT, session based cookie, OAuth
 
-## 📬 Get in Touch
+##  Get in Touch
 
 - Connect with me on [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/shriyash-ghimire-73b385257/))
+  
 Thanks for stopping by! I'd love to connect with you ;)
 
 
