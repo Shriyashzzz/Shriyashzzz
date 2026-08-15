@@ -2,12 +2,12 @@
 
 
 
-![Shriyashzzz's Stats](https://github-readme-stats.vercel.app/api?username=Shriyashzzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![Shriyashzzz's Stats](https://github-readme-stats-bice-delta-35.vercel.app/api?username=Shriyashzzz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ##  About Me
 
 - I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
-- I write in-depth, thoughtful articles on my website [blog.shriyash.dev](https://blog.shriyash.dev).
+- I write in-depth, thoughtful articles on my website [&lt;Shriyash Uncompiled /&gt;](https://blog.shriyash.dev).
 
 
 ## My  Stack
@@ -23,8 +23,8 @@
 
 ##  Get in Touch
 
-- Connect with me on [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/shriyash-ghimire-73b385257/))
-  
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/shriyash-ghimire-73b385257/)
+    
 Thanks for stopping by! I'd love to connect with you ;)
 
 
