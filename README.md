@@ -2,16 +2,16 @@
 
 
 
-![<Shriyashzzz>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<Shriyashzzz>'s Stats](https://github-readme-stats.vercel.app/api?username=<Shriyashzzz>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ##  About Me
 
 - I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
-- I write in-depth, thoughtful articles on my website [blog.shriyash.dev](https://blog.shriyash.dev), a
+- I write in-depth, thoughtful articles on my website [blog.shriyash.dev](https://blog.shriyash.dev).
 
 
 ## My  Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker)](https://skillicons.dev)
 
 ##  What am I doing currently?
 
