@@ -1,8 +1,6 @@
 # Hello, I'm Shriyash Ghimire! 👋
 
 
-##  About Me
-
 - I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
 - I write in-depth, thoughtful articles on my website [&lt;Shriyash Uncompiled /&gt;](https://blog.shriyash.dev).
 
