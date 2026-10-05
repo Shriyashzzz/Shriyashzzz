@@ -26,7 +26,7 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 - Trying to be more involved in my college clubs.
 - Thinking about learning React Native & picking up Go.
 
-## Get in Touch
+## Stay in tune ?
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shriyash-ghimire-73b385257/)
 - Check out my [portfolio](https://shriyash.dev)
