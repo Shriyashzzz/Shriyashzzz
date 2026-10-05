@@ -18,8 +18,8 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 
 ## What am I doing currently?
 
-- Learning Full Stack Web Development through the Odin Project.
-- Reading System Design Interview Book By Alex Xu
+- Finishing last two projects from [The Odin Project](https://www.theodinproject.com/)
+- Reading 'System Design Interview' By Alex Xu
 - Making a newsletter pipeline with a CMS using Nodemailer, Resend, Redis & BullMQ for my blog-site [&lt;Shriyash Uncompiled /&gt;](https://blog.shriyash.dev).
 - Learning to make websockets.
 - Competing in hackathons
@@ -30,6 +30,7 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shriyash-ghimire-73b385257/)
 - Check out my [portfolio](https://shriyash.dev)
+- Check out my [blogs](https://blog.shriyash.dev)
 
 <!--
 
