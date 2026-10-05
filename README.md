@@ -1,32 +1,35 @@
-<div align = "center">
+<div align="center">
+
+  <h1>Hi, I'm Shriyash Ghimire! 👋</h1>
   
-  # Hello, I'm Shriyash Ghimire! 👋
+Full stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
   
+><p align="center"><em>&emsp;"That's what was great about him. He tried. Not many do."<br />― Jon Krakauer, Into the Wild</em></p>
+
+><p align="center"><em>&emsp;"The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities."<br />― Shunryu Suzuki</em></p>
+
 </div>
 
 
-- I'm a full stack developer currently pursuing my Bachelor's degree in Computer Science @ the college of san mateo
-- I write in-depth, thoughtful articles on my website [&lt;Shriyash Uncompiled /&gt;](https://blog.shriyash.dev).
 
 
-## My  Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker)](https://skillicons.dev)
+## My Stack
+[![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
 
-##  What am I doing currently?
+## What am I doing currently?
 
-  - Learning Full Stack Web Development through the Odin Project
-  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
-  - Styling with Tailwind CSS to create modern and responsive user interfaces.
-  - Learning to use docker to so I can run my applications on isolated environment and not have to deal with weird production bugs
-  - Exploring different kind of authentication, JWT, session based cookie, OAuth
+- Learning Full Stack Web Development through the Odin Project.
+- Reading System Design Interview Book By Alex Xu
+- Making a newsletter pipeline with a CMS using Nodemailer, Resend, Redis & BullMQ for my blog-site [&lt;Shriyash Uncompiled /&gt;](https://blog.shriyash.dev).
+- Learning to make websockets.
+- Competing in hackathons
+- Trying to be more involved in my college clubs.
+- Thinking about learning React Native & picking up Go.
 
-##  Get in Touch
+## Get in Touch
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shriyash-ghimire-73b385257/)
-    
-Thanks for stopping by! I'd love to connect with you ;)
-
-
+- Check out my [portfolio](https://shriyash.dev)
 
 <!--
 
