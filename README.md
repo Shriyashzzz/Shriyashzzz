@@ -4,9 +4,9 @@
   
 Full stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
   
-><p ><em>&emsp;"That's what was great about him. He tried. Not many do."<br />― Jon Krakauer, Into the Wild</em></p>
+><p ><em>&emsp;"That's what was great about him. He tried. Not many do."― Jon Krakauer, Into the Wild</em></p>
 
-><p ><em>&emsp;"The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities."<br />― Shunryu Suzuki</em></p>
+><p ><em>&emsp;"The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities."― Shunryu Suzuki</em></p>
 
 </div>
 
