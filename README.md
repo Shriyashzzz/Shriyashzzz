@@ -20,7 +20,7 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 
 - Finishing last two projects from [The Odin Project](https://www.theodinproject.com/)
 - Reading 'System Design Interview' By Alex Xu
-- Updating my [blog](https://blog.shriyash.dev). site CMS by adding a newsletter pipeline using Nodemailer, Resend, Redis & BullMQ on top.
+- Updating my [blog](https://blog.shriyash.dev) site CMS by adding a newsletter pipeline using Nodemailer, Resend, Redis & BullMQ on top.
 - Learning to make websockets.
 - Competing in hackathons
 - Trying to be more involved in my college clubs.
