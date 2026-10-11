@@ -17,11 +17,12 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 
 ## What am I doing currently?
 
-- Finishing last two projects from [The Odin Project](https://www.theodinproject.com/)
-- Reading 'System Design Interview' By Alex Xu
-- Updating my [blog](https://blog.shriyash.dev) site CMS by adding a newsletter pipeline using Nodemailer, Resend, Redis & BullMQ on top.
+- Finishing last two projects from [The Odin Project](https://www.theodinproject.com/).
+- Reading 'System Design Interview' By Alex Xu.
+- Learning to use React Native.
+- Writing posts on my [blog](https://blog.shriyash.dev) site.
 - Learning to make websockets.
-- Competing in hackathons
+- Competing in hackathons.
 - Trying to be more involved in my college clubs.
 - Thinking about learning React Native & picking up Go.
 
