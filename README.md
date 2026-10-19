@@ -16,16 +16,14 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
 
 ## What am I doing currently?
-
+- Applying for Summer Internships ;)
 - Finishing last two projects from [The Odin Project](https://www.theodinproject.com/).
-- Reading 'System Design Interview' By Alex Xu.
-- Learning to use React Native.
-- Writing posts on my [blog](https://blog.shriyash.dev) site.
-- Learning to make websockets.
+- Working on an privacy focused messaging app for mobile devices using React Native with Expo Framework + Express for BE
+- Reviewing stuff related to emulating games on my [blog](https://blog.shriyash.dev) site.
 - Competing in hackathons.
-- Trying to be more involved in my college clubs.
-- Thinking about learning React Native & picking up Go.
+- Looking to collaborate with more people to work on cool stuffs ;)
 
+  
 ## Stay in tune ?
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/shriyash-ghimire-73b385257/)
