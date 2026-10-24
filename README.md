@@ -1,6 +1,6 @@
 <div>
 
-  <h1>Hi, I'm Shriyash Ghimire! 👋</h1>
+  <h1>Hello, I'm Shriyash Ghimire! 👋</h1>
   
 Full stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
   
@@ -18,10 +18,10 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 ## What am I doing currently?
 - Applying for Summer Internships ;)
 - Finishing last two projects from [The Odin Project](https://www.theodinproject.com/).
-- Working on an privacy focused messaging app for mobile devices using React Native with Expo Framework + Express for BE
-- Reviewing stuff related to emulating games on my [blog](https://blog.shriyash.dev) site.
-- Competing in hackathons.
+- Working on an privacy focused cross-platform messaging app with React + Express for BE for web & React Native with Expo Framework mobile devices 
+- Actively building & participating in hackathons.
 - Looking to collaborate with more people to work on cool stuffs ;)
+- I also write [blogs](https://blog.shriyash.dev) over here ;)
 
   
 ## Stay in tune ?
