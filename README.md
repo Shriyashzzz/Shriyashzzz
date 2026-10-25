@@ -22,7 +22,7 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 - Actively building & participating in hackathons.
 - Looking to collaborate with more people to work on cool stuffs ;)
 - I also write [blogs](https://blog.shriyash.dev) over here ;)
-- Keeping up with AI tools *(just started with Claude Code :p)* , but prioritizing fundamentals through The Odin Project and building projects myself.
+- Keeping up with AI tools *(just started with Claude Code)* , but prioritizing fundamentals through The Odin Project and building projects myself.
   
 ## Stay in tune ?
 
