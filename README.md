@@ -18,7 +18,8 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 ## What am I doing currently?
 - Applying for Summer Internships ;)
 - Finishing last two projects from [The Odin Project](https://www.theodinproject.com/).
-- Working on an privacy focused cross-platform messaging app with React for web & React Native with Expo Framework mobile devices + Express on BE. *(Looking for collaboraters)*
+- Working on [mangaTracker](https://mangatracker.xyz)
+- Working on an privacy focused cross-platform messaging app with React for web & React Native with Expo Framework mobile devices + Express on BE. *(Looking for collaboraters, almost done with the backend, some tests remaining)*
 - Actively building & participating in hackathons.
 - Looking to collaborate with more people to work on cool stuffs ;)
 - I also write [blogs](https://blog.shriyash.dev) over here ;)
