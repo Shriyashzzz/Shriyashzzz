@@ -16,7 +16,7 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
 
 ## What am I doing currently?
-- Polishing my [You think you're F.*ked at calculus.](https://calculus.shriyash.dev) book for typo's and with feedbacks from readers. 
+- Polishing my [You think you're F.*ked at calculus.](https://calculus.shriyash.dev) book for typo's and misc error through feedbacks from readers. 
 - At the end of the marathon for [The Odin Project](https://www.theodinproject.com/)._(two projects left)_
 - Working on [mangaTracker](https://mangatracker.xyz)
 - Working on an privacy focused cross-platform messaging app with React for web & React Native with Expo Framework mobile devices + Express on BE. *(Looking for collaboraters, almost done with the backend, some tests remaining)*
