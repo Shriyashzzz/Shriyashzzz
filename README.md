@@ -1,6 +1,6 @@
 <div>
 
-  <h1>Hello, I'm Shriyash Ghimire! 👋</h1>
+<h1>Hello, I'm Shriyash Ghimire! <br><img src="pengu.gif" width="40" /></h1>
   
 Full stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
   
