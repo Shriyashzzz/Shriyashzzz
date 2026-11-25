@@ -14,6 +14,11 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ## What am I doing currently?
 - At the end of the marathon for [The Odin Project](https://www.theodinproject.com/).
@@ -22,6 +27,8 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 - Actively building & participating in hackathons.
 - Looking to collaborate with more people to work on cool stuffs ;)
 - I also write [blogs](https://blog.shriyash.dev) over here ;)
+
+
   
 ## Stay in tune ?
 
