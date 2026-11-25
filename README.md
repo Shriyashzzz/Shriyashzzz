@@ -1,24 +1,22 @@
 <div>
 
 <h1>Hello, I'm Shriyash Ghimire! <br><img src="pengu.gif" width="80" /></h1>
-for freelance work? Do reach out, [email]("ghimireshriyash@gmail.com") :)
+
 
 Full-stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
   
+
 ><p ><em>"The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities."― Shunryu Suzuki</em></p>
 ><p ><em>"That's what was great about him. He tried. Not many do."― Jon Krakauer, Into the Wild</em></p>
 
 </div>
+<p>
+<br/>
+ For freelance work? Do reach out, [email](mailto:ghimireshriyash@gmail.com) :)
+</p>
 
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
-
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-<br/>
-<a href="https://ko-fi.com/R7S629XR77">
-  <img src="/buy-me-coffee.webp" alt=" Link to kofi site to buy me a coffee" width="150" height="43">
-</a>
 
 
 <picture>
@@ -26,6 +24,12 @@ If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake.svg"/>
   <img alt="github-snake" src="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake.svg" />
 </picture>
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+<br/>
+<a href="https://ko-fi.com/R7S629XR77">
+  <img src="/buy-me-coffee.webp" alt=" Link to kofi site to buy me a coffee" width="150" height="43">
+</a>
 
 ## What am I doing currently?
 - At the end of the marathon for [The Odin Project](https://www.theodinproject.com/).
