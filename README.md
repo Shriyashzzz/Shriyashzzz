@@ -1,6 +1,8 @@
 <div>
 
-<h1>Hello, I'm Shriyash Ghimire! <br><img src="pengu.gif" width="80" /></h1>
+<h1>Hello, I'm Shriyash Ghimire!</h1>
+  
+<img src="pengu.gif" width="80" />
 
 
 Full-stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
@@ -27,13 +29,11 @@ Full-stack developer currently pursuing my Bachelor's degree in Computer Science
   <img alt="github-snake" src="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<hr>
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
-<br/>
-<a href="https://ko-fi.com/R7S629XR77">
-  <img src="/buy-me-coffee.webp" alt=" Link to kofi site to buy me a coffee" width="150" height="43">
-</a>
+if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+
+<a href="https://ko-fi.com/R7S629XR77" target="_blank"><img src="/buy-me-coffee.webp" alt="Buy Me A Coffee" width="150" ></a>
+
 
 ## What am I doing currently?
 - At the end of the marathon for [The Odin Project](https://www.theodinproject.com/).
