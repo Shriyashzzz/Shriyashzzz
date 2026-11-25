@@ -14,7 +14,7 @@ Full-stack developer currently pursuing my Bachelor's degree in Computer Science
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-[![ko-fi](buy-me-coffee-dark.webp)](https://ko-fi.com/R7S629XR77)
+[![ko-fi](buy-me-coffee-dark .webp)](https://ko-fi.com/R7S629XR77)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake-dark.svg" />
