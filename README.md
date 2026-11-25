@@ -1,19 +1,21 @@
 <div>
 
 <h1>Hello, I'm Shriyash Ghimire! <br><img src="pengu.gif" width="80" /></h1>
-  
-Full stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
+for freelance work? Do reach out, [email]("ghimireshriyash@gmail.com") :)
+
+Full-stack developer currently pursuing my Bachelor's degree in Computer Science @ *The College of San Mateo.*
   
 ><p ><em>"The mind of the beginner is empty, free of the habits of the expert, ready to accept, to doubt, and open to all the possibilities."― Shunryu Suzuki</em></p>
 ><p ><em>"That's what was great about him. He tried. Not many do."― Jon Krakauer, Into the Wild</em></p>
 
 </div>
 
-
-
-
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
+
+If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+[![ko-fi](buy-me-coffee-dark.webp)](https://ko-fi.com/R7S629XR77)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake.svg"/>
