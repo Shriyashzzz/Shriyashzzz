@@ -15,8 +15,8 @@ Full stack developer currently pursuing my Bachelor's degree in Computer Science
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Shriyashzzz/Shriyashzzz/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="[github-snake.svg](https://github.com/Shriyashzzz/Shriyashzzz/blob/output/github-contribution-grid-snake.svg)" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
