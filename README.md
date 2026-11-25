@@ -10,10 +10,12 @@ Full-stack developer currently pursuing my Bachelor's degree in Computer Science
 ><p ><em>"That's what was great about him. He tried. Not many do."― Jon Krakauer, Into the Wild</em></p>
 
 </div>
-<p>
+
 <br/>
- For freelance work? Do reach out, [email](mailto:ghimireshriyash@gmail.com) :)
-</p>
+<div>
+ For freelance work? Do reach out, <a href="mailto:ghimireshriyash@gmail.com">email</a> :)
+</div>
+
 
 ## My Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,ts,tailwind,react,prisma,express,nodejs,vite,webpack,redux,supabase,docker,redis)](https://skillicons.dev)
@@ -25,7 +27,9 @@ Full-stack developer currently pursuing my Bachelor's degree in Computer Science
   <img alt="github-snake" src="https://raw.githubusercontent.com/Shriyashzzz/Shriyashzzz/output/github-contribution-grid-snake.svg" />
 </picture>
 
+<hr>
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
+
 <br/>
 <a href="https://ko-fi.com/R7S629XR77">
   <img src="/buy-me-coffee.webp" alt=" Link to kofi site to buy me a coffee" width="150" height="43">
